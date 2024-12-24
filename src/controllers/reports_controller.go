@@ -3,7 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"net/http"
-	"reporting-api/services"
+	"reporting-api/src/services"
 )
 
 type ReportsController struct {

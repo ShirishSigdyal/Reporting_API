@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 	"reporting-api/config"
-	"reporting-api/controllers"
+	"reporting-api/src/controllers"
 	"reporting-api/db"
-	"reporting-api/repositories"
-	"reporting-api/services"
+	"reporting-api/src/repositories"
+	"reporting-api/src/services"
 )
 
 func main() {

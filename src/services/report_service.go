@@ -2,7 +2,7 @@ package services
 
 import (
 	"context"
-	"reporting-api/repositories"
+	"reporting-api/src/repositories"
 )
 
 type ReportService struct {
