@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.out
+
+# Build output
+bin/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment configuration
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+.cache/
